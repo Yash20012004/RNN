@@ -55,7 +55,7 @@ desktop.ini
 # Project specific
 *.csv
 *.pkl
-*.h5
+
 *.db
 *.sqlite3
 *.model
